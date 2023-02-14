@@ -243,6 +243,16 @@ section p {
   font-size: 0.8rem;
 }
 
+#En-button {
+  text-decoration: underline;
+}
+
+#openingtimes {
+  position:absolute;
+  right:2rem;
+  bottom:1rem;
+}
+
 
 /* FONTS ----- */
 @font-face {
@@ -291,11 +301,18 @@ section p {
   #background-image {
     height: 600px;
   }
-  nav li {
+
+  nav {
+    display: none;
+  }
+  footer {
+    font-size: 0.8rem;
+  }
+  /* nav li {
     display:block;
     margin-left: 0.5rem;
     line-height: 1.5;
-  }
+  } */
   #LM, #MM, #RM {
     top: 66%;
   }

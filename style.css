@@ -105,6 +105,9 @@ h2 {
 
 a, a::after {
   color: inherit;
+}
+
+nav a, #title {
   text-decoration: none;
 }
 
@@ -241,6 +244,10 @@ section p {
 
 #credits dl {
   font-size: 0.8rem;
+}
+
+#En-button, #Ro-button {
+  cursor: pointer;
 }
 
 #En-button {

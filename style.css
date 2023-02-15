@@ -272,7 +272,7 @@ section p {
 
 @font-face {
   font-family: Camera;
-  src: url(fonts/ABCCamera-Regularitalic.woff);
+  src: url(fonts/ABCCamera-RegularItalic.woff);
   font-style: italic;
 }
 
@@ -284,7 +284,7 @@ section p {
 
 @font-face {
   font-family: Camera;
-  src: url(fonts/ABCCamera-Mediumitalic.woff);
+  src: url(fonts/ABCCamera-MediumItalic.woff);
   font-style: italic;
   font-weight: bold;
 }

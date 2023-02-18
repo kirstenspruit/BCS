@@ -316,10 +316,12 @@ section p {
   }
 
   nav {
-    display: none;
+    top: 3rem;
+    left: 0.5rem;
+    /* display: none; */
   }
   footer {
-    font-size: 3vw;
+    font-size: 2.8vw;
     line-height: 10%;
     padding-bottom: 2rem;
   }
